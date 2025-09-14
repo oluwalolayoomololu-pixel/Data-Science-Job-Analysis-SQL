@@ -67,7 +67,12 @@ SQL is leading with a count of 8.
 Python follows closely with a count of 7.
 Tableau is also highly sought after, with a count of 6.
 Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand
-  
+
+<img width="2400" height="1200" alt="IMG_2148" src="https://github.com/user-attachments/assets/ed2da3a6-4523-4802-bd7f-65e0c07018bf" />
+this chart was generated from chatgpt
+
+
+
 
 ## 2. Skills for Top Paying Jobs  
 
@@ -113,6 +118,9 @@ ORDER BY salary_year_avg DESC;
 | Snowflake   | Varies|
 | Pandas      | Varies|
 | Excel       | Varies|
+
+<img width="2000" height="1200" alt="IMG_2149" src="https://github.com/user-attachments/assets/710d7590-5f85-4116-975d-2532f3859482" />
+
 
 ## 3. In-Demand Skills for Data Analysts  
 
