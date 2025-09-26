@@ -3,10 +3,13 @@ Using PostgreSQL, I investigated data science job postings from 2023 to uncover 
 # Data Analyst Job Market Exploration
 
 ## Introduction
-Dive into the data job market!  
+Dive into the data job market  
 Focusing on data analyst roles, this project explores the **top-paying jobs**, **in-demand skills**, and where high demand meets high salary in data analytics.  
 
 ---
+### The full dataset is too large to host on GitHub.  
+  You can download it from the original source here:  
+  [Job Postings Dataset – Full Version](https://www.kaggle.com/)
 
 ## Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to **pinpoint top-paid and in-demand skills**, streamlining work for others to find optimal jobs.  
